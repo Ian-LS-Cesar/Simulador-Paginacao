@@ -27,7 +27,7 @@ Feito por: Ian Lucas S. César 2310294
 3. Em seguida, digite um número inteiro para inserir a quantidade de quadros na execução dos 4 algoritmos
 4. Após as informações já estarem inseridas, clique no botão "Executar"
 
-
+Link da Página para baixar a depedência no Projeto Maven:
+https://mvnrepository.com/artifact/org.jfree/jfreechart/1.5.5
 Link do Projeto no GitHub:
-
 https://github.com/Ian-LS-Cesar/Simulador-Paginacao/
